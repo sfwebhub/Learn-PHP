@@ -92,8 +92,8 @@ $c = (object) $c;
 $d = (object) $d;
 $e = (object) $e; */
 
-/*
-Cast to NULL
+
+/*Cast to NULL
 
 $a = 5;       // Integer
 $b = 5.34;    // Float
@@ -105,6 +105,5 @@ $a = (unset) $a;
 $b = (unset) $b;
 $c = (unset) $c;
 $d = (unset) $d;
-$e = (unset) $e;  */
-
-
+$e = (unset) $e;  
+*/
